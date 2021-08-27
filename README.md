@@ -1,7 +1,7 @@
 # Leetcode-Problems-Python3
 Solutions for Leetcode Problems
 
-  [STRINGS](https://github.com/aartis83/Leetcode-Problems-Python3/tree/main/Strings)
+  [TOPIC - STRINGS](https://github.com/aartis83/Leetcode-Problems-Python3/tree/main/Strings)
   
    [1.LC242_isAnagram](https://github.com/aartis83/Leetcode-Problems-Python3/blob/main/Strings/LC242_isAnagram.py)
    
