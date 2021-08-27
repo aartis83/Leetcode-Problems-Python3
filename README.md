@@ -17,6 +17,6 @@ Solutions for Leetcode Problems
    
    [7.LC_20_IsValidParenthesis](https://github.com/aartis83/Leetcode-Problems-Python3/blob/main/Strings/LC_20_IsValidParenthesis.py)
    
-   [8.LC_844_backspaceCompare](https://github.com/aartis83/Leetcode-Problems-Python3/blob/main/Strings/LC_844_backspaceCompare)
+   [8.LC_844_backspaceCompare](https://github.com/aartis83/Leetcode-Problems-Python3/blob/main/Strings/LC_844_backspaceCompare.py)
    
    
