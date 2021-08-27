@@ -1,3 +1,4 @@
+# O(N + M) TIME | O(N + M)  SPACE
 class Solution:
     def backspaceCompare(self, S, T):
 
