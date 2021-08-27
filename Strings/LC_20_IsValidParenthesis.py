@@ -1,3 +1,4 @@
+# O(N) TIME | O(N) SPACE
 class Solution:
     def isValid(self, s):
         stack = []
