@@ -14,7 +14,7 @@
 #   encode and decode should be stateless
 # - Do not use an library method such as eval or serialize methods. You
 #   must implement your OWN encode and decode algorithm
-
+# O(N) TIME | O(1) SPACE
 
 class Solution:
     def encode(self, strs):
