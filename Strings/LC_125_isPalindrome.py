@@ -1,3 +1,4 @@
+# O(N) TIME | O(1) SPACE
 class Solution:
     def isPalindrome(self, s):
 
