@@ -1,3 +1,5 @@
+
+# O(NKLOGK) TIME | O(NK) SPACE N - NUMBER OF WORDS AND K IS THE LENGTH OF THE WORDS
 class Solution:
     def groupAnagrams(self, strs):
 
