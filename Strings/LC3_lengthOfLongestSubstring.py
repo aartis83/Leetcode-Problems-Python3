@@ -1,3 +1,4 @@
+# O(N) TIME | O(MIN(M,N)) SPACE N IS THE STRING LENGTH AND M IS THE CHARACTERS IN DICTIONARY(MAX-26)
 class Solution:
     def lengthOfLongestSubstring(self, s):
         char_map = {}
