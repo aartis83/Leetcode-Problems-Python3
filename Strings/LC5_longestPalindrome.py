@@ -3,6 +3,7 @@
 # longestPalindrome("cbbd") --> "bb"
 # longestPalindrome("abba") --> "abba"
 # longestPalindrome("a") --> "a"
+# O(N^2) TIME | O(1) SPACE
 class Solution:
     def longestPalindrome(self, s):
        res = ""
