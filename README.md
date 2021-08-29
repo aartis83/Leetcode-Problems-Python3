@@ -22,7 +22,7 @@ Solutions for Leetcode Problems
    
   [TOPIC - INTERVALS](https://github.com/aartis83/Leetcode-Problems-Python3/tree/main/Intervals)
   
-   [1.LC_252_canAttendMeetings](https://github.com/aartis83/Leetcode-Problems-Python3/blob/main/Intervals/LC_252_canAttendMeetings]py)
+   [1.LC_252_canAttendMeetings](https://github.com/aartis83/Leetcode-Problems-Python3/blob/main/Intervals/LC_252_canAttendMeetings.py)
    
    [2.LC_253_minMeetingRooms](https://github.com/aartis83/Leetcode-Problems-Python3/blob/main/Intervals/LC_253_minMeetingRooms.py)
    
